@@ -19,11 +19,6 @@
 
 ## 📂 Portfolio Projects
 
-### 📦 Analisis Penjualan E-Commerce (Olist Brasil)
-> Python · Pandas · Matplotlib
-- Menganalisis 10.000+ transaksi untuk identifikasi tren penjualan bulanan
-- Menemukan kategori produk terlaris dari 100.000+ data item
-- 🔗 [Lihat Project](https://github.com/rafif-amrulloh/ecommerce-analysis)
 
 ### 📱 Analisis Ulasan Aplikasi E-Commerce Indonesia
 > Python · Pandas · Matplotlib · Power BI
